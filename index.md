@@ -1,3 +1,3 @@
-# Welcome to my blog
+HI! My name is Abhee Jani and this is my blog
 
-I'm glad you are here. I plan to talk about ...
+This page will tell you everything there is to know about me 
