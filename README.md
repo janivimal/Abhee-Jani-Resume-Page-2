@@ -1,4 +1,4 @@
-# Abhee Jani resume homepage
+# Resume Homepage
 
 Name: Abhee Jani 
 Social Media Information - 
