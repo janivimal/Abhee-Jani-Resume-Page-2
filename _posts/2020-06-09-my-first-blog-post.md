@@ -12,4 +12,4 @@ date: 2020-06-09
 - Possess good analytical and problem solving skills
 - Proficient in Google and Microsoft Suites
 - Looking to build a career where evolving technology can be used to solve problems
-- <a href="https://docs.google.com/document/d/1CES7XoXgjeJMpxx8_Ty7gdm4l0sDP4ZS8osHqP_vzZI"> LINK TO MORE INFORMATION HERE  <a> 
+
